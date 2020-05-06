@@ -4,3 +4,6 @@ Earth Engine uses the Javascript programming language. To learn more about JS in
 
 [JavaScript for Earth Engine]( https://developers.google.com/earth-engine/tutorial_js_01)
 
+How to run this code
+---
+* Loading up images
