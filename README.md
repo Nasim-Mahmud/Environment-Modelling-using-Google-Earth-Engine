@@ -6,4 +6,4 @@ Earth Engine uses the Javascript programming language. To learn more about JS in
 
 How to run this code
 ---
-* Loading up images
+* To run this classifier, we are going to need a cloud-free image so that we can get the exact result. For this, I have used USGS Landsat 8 Surface Reflectance Tier 1 imagery, but USGS Landsat 5 TM Collection 1 Tier 1 TOA Reflectance has also worked for me.  This will filter the region of interest (ROI) in a certain date range by filtering out the least cloudy images.
